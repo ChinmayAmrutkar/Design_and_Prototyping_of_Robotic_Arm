@@ -49,4 +49,4 @@ Efficient waste management is critical for sustainability. This project introduc
 A demonstration video showcasing the first trial of the robotic arm and waste sorting system will be added to this repository.
 
 ## References
-The project draws upon extensive research and literature, including works on robotic arm design, waste sorting systems, and object detection models. See the [documentation](https://github.com/ChinmayAmrutkar/Design_and_Prototyping_of_Robotic_Arm/commit/f0f85b28decd26677b3436e1981f82980546ba0d) for detailed citations.
+The project draws upon extensive research and literature, including works on robotic arm design, waste sorting systems, and object detection models. See the [documentation](https://github.com/ChinmayAmrutkar/Design_and_Prototyping_of_Robotic_Arm/blob/647a2e16e40c4f69a4f61f87151eb39a035f4cdb/Design_and_Prototyping_of_Robotic_Arm_For_Waste_Sorting_Documentation.pdf) for detailed citations.
